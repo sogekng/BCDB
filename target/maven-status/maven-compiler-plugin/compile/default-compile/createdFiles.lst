@@ -1,0 +1,8 @@
+com/DASFN/BCDB/Services/DadosService.class
+com/DASFN/BCDB/Controllers/DadosController.class
+com/DASFN/BCDB/Repositories/DadosRepository.class
+com/DASFN/BCDB/FeingClient/FeingDTO/ValueDTO.class
+com/DASFN/BCDB/BcdbApplication.class
+com/DASFN/BCDB/Model/DadosModel.class
+com/DASFN/BCDB/FeingClient/FeingClient.class
+com/DASFN/BCDB/FeingClient/FeingDTO/FeingDTO.class
